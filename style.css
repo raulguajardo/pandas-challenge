@@ -1,0 +1,47 @@
+p {
+    color: blueviolet;
+    background-color: pink;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 20px;
+    border: 10px solid red;
+    border-radius: 15px;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: purple;
+}
+
+table {
+    border: 1px dotted red;
+    border-radius: 10px;
+    background-color: chocolate;
+}
+
+th {
+    border-bottom: 2px solid blue;
+}
+
+td {
+    background-color: honeydew;
+    color: black;
+}
+
+h1 {
+    color: red;
+}
+
+#my-first-heading {
+    color: blue;
+}
+
+.header2 {
+    color: pink;
+}
